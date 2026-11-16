@@ -157,6 +157,14 @@ footer .footerImage{
   height:280px;
   width:100%;
 }
+footer .footerLogo{
+  background-image:url('../images/textLogo.png');
+  background-size: cover;        /* Scales image to fill entire element without distortion */
+  background-position: center;   /* Anchors focus to center */
+  background-repeat: no-repeat;  /* Prevents image tiling */
+  height:204px;
+  width:100%;
+}
 /* Button */
 .btn {
   padding: 0.6rem 1.2rem;
